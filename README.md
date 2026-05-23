@@ -13,7 +13,7 @@ holidays on donation behaviour.
 - Dataset — Open data from DOSM (Department of Statistics Malaysia)
 
 ## Dashboard Pages
-|-----------------------|------------------------------------------------------------|
+
 |         Page          |                          Description                       |
 |-----------------------|------------------------------------------------------------|
 | National Overview     | Overall donation trends and key KPIs (2020 - 20 May 2026)  |
@@ -21,7 +21,7 @@ holidays on donation behaviour.
 | Blood Type Analysis   | Blood type distribution and trends                         |          
 | Public Holiday Impact | How holidays affect donation behaviour                     |
 | Monthly Explorer      | Drill down by specific month and year                      |
-|-----------------------|------------------------------------------------------------|
+
 
 ## Key Insights
 - Donations barely dropped during COVID-19 in 2020-2021, suggesting 
