@@ -8,9 +8,9 @@ state-level patterns, blood type distributions, and the impact of public
 holidays on donation behaviour.
 
 ## Tools & Technologies
-- Power BI Desktop — Dashboard development
-- Python (pandas, numpy) — Data preparation and feature engineering
-- Dataset — Open data from DOSM (Department of Statistics Malaysia)
+- Power BI Desktop - Dashboard development
+- Python (pandas, numpy) - Data preparation and feature engineering
+- Dataset - Open data from DOSM (Department of Statistics Malaysia)
 
 ## Dashboard Pages
 
@@ -56,4 +56,10 @@ malaysia-blood-donation-analysis/
 ├── prepare_blood_data.py        
 ├── blood_donation_trend_dashboard.pbix    
 ├── blood_donation_trend_dashboard.pdf     
+├── dashboard/
+│   ├── page1_overview.png
+│   ├── page2_byState.png
+│   ├── page3_byBloodType.png
+│   ├── page4_publicHolidayImpact.png
+│   └── page5_explorer.png
 └── README.md
